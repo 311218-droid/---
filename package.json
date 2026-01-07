@@ -1,0 +1,36 @@
+{
+  "name": "iron-man-vision-controller",
+  "version": "1.0.0",
+  "description": "一個使用 AI 視覺辨識技術的網頁互動控制器，採用鋼鐵人（Iron Man）的 HUD 風格界面設計",
+  "main": "index.html",
+  "author": "GitHub Copilot",
+  "license": "MIT",
+  "keywords": [
+    "vision-recognition",
+    "gesture-detection",
+    "hand-tracking",
+    "mediapipe",
+    "hud-interface",
+    "iron-man",
+    "web-app",
+    "interactive-ui"
+  ],
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "npx http-server -p 8000 -o",
+    "dev": "npx live-server --port=8000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/iron-man-vision-controller"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "last 2 Chrome versions",
+    "last 2 Firefox versions",
+    "last 2 Safari versions",
+    "last 2 Edge versions"
+  ]
+}

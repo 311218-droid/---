@@ -1,0 +1,67 @@
+MIT License
+
+Copyright (c) 2026 GitHub Copilot
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 簡體中文說明
+
+MIT 許可證是一個簡單而寬鬆的許可證，允許您：
+
+✅ 商業使用
+✅ 修改源代碼
+✅ 分發修改版本
+✅ 私人使用
+
+❌ 但您必須保留許可證和版權聲明
+
+### 使用條款
+
+1. **自由使用** - 可以自由使用、複製、修改和分發
+2. **保留聲明** - 保留原始版權和許可證聲明
+3. **無保修** - 軟件"按原樣"提供，無任何保修
+4. **無責任** - 開發者不為任何問題負責
+
+### 如何引用
+
+如果您使用或修改本項目，請在您的項目中包含以下聲明：
+
+```
+本項目使用了 GitHub Copilot 開發的鋼鐵人視覺控制器代碼。
+原始項目：https://github.com/...
+許可證：MIT
+```
+
+### 第三方許可
+
+本項目使用了以下開源軟件：
+
+- **MediaPipe Hands** - Google
+  許可證：Apache 2.0
+  網址：https://mediapipe.dev/
+
+### 貢獻
+
+如果您對項目進行了改進，歡迎提交 Pull Request！
+
+---
+
+**如有任何問題，請聯繫項目維護者。**
